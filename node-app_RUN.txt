@@ -1,0 +1,2 @@
+r_satanovskyi@NIC1-W-PC-08455 MINGW64 ~/projects/es6-demo-export (master)
+$ node --experimental-modules node-app.js
